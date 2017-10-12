@@ -21,7 +21,7 @@ namespace URLSelect
 
                 //ファイルの中身を一行ずつ読み込んでいく
                 string line;
-                using(StreamReader sr = new StreamReader(filepath,Encoding.Default))
+                using(StreamReader sr = new StreamReader(filepath,Encoding.UTF8))
                 {
                     while((line = sr.ReadLine()) != null)
                     {
@@ -96,8 +96,8 @@ namespace URLSelect
                     }
                 }
 
-                string GetPath = Directory.GetCurrentDirectory() + "/" + Defs.OUTPUT;
-				string writepath = GetPath + "/" + DateTime.Now.Year.ToString() +
+                string GetPath = Directory.GetCurrentDirectory() + @"\" + Defs.OUTPUT;
+				string writepath = GetPath + @"\" + DateTime.Now.Year.ToString() +
 														DateTime.Now.Day.ToString() +
 														DateTime.Now.Hour.ToString() +
 														DateTime.Now.Minute.ToString() +
@@ -112,6 +112,8 @@ namespace URLSelect
                 
 
                 Console.WriteLine("終了");
+                Console.WriteLine("何かキーを押して下さい");
+                Console.ReadLine();
             }
             catch (Exception ex)
             {

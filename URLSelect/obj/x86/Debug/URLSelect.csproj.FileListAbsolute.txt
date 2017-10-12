@@ -1,0 +1,5 @@
+/Users/MilkFox/Projects/URLSelect/URLSelect/bin/Debug/URLSelect.exe
+/Users/MilkFox/Projects/URLSelect/URLSelect/bin/Debug/URLSelect.pdb
+/Users/MilkFox/Projects/URLSelect/URLSelect/obj/x86/Debug/URLSelect.csproj.CoreCompileInputs.cache
+/Users/MilkFox/Projects/URLSelect/URLSelect/obj/x86/Debug/URLSelect.exe
+/Users/MilkFox/Projects/URLSelect/URLSelect/obj/x86/Debug/URLSelect.pdb

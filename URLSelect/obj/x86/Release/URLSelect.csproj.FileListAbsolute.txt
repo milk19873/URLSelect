@@ -1,0 +1,6 @@
+/Users/MilkFox/Projects/URLSelect/URLSelect/bin/Release/URLSelect.exe
+/Users/MilkFox/Projects/URLSelect/URLSelect/obj/x86/Release/URLSelect.csproj.CoreCompileInputs.cache
+/Users/MilkFox/Projects/URLSelect/URLSelect/obj/x86/Release/URLSelect.exe
+C:\Users\white\Downloads\folder\URLSelect\URLSelect\bin\Release\URLSelect.exe
+C:\Users\white\Downloads\folder\URLSelect\URLSelect\obj\x86\Release\URLSelect.csproj.CoreCompileInputs.cache
+C:\Users\white\Downloads\folder\URLSelect\URLSelect\obj\x86\Release\URLSelect.exe
